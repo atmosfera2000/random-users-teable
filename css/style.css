@@ -1,0 +1,16 @@
+.img-thumbnail:hover {
+    cursor: pointer;
+}
+
+.img-tooltip {
+    position: absolute;
+    top: 0;
+    left: 75px;
+}
+
+.spinner-border {
+    width: 10rem;
+    height: 10rem;
+    opacity: .2;    
+}
+
